@@ -1,4 +1,5 @@
-1. 1 bulan kedepan saya akan belajar github
-2. 2 bulan kedepan saya akan belajar pemerograman web
-3. Dst
-pembagian tugas proyek
+1 bulan kedepan saya akan belajar github
+2 bulan kedepan saya akan belajar pemerograman web
+3 bulan kedepan saya belajar frok
+4 bulan kedepan saya belajar BRANCH
+dst
