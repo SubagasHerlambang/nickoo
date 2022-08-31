@@ -2,4 +2,5 @@
 2 bulan kedepan saya akan belajar pemerograman web
 3 bulan kedepan saya belajar frok
 4 bulan kedepan saya belajar BRANCH
+5 bulan kedepan saya belajar java script
 dst
